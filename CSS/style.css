@@ -84,7 +84,7 @@ header .search_field {
 } 
 
 header .search_submit {
-	background: url('../images/favicon.png') no-repeat center center;
+	background: url('../Images/favicon.png') no-repeat center center;
 	background-size: cover;
 	border: none;
 	width: 80px;
